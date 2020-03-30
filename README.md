@@ -1,1 +1,8 @@
-# Dailycliq
+admin/product/list.blade.php
+web.php
+prodcutcontroller.php
+admin/layout/app.blade.php
+admin/product/99store_list.blade.php
+
+
+Please Add one Column name : store_99 in Products Table 
